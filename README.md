@@ -105,9 +105,9 @@ This project is licensed under the **ISC License**. Feel free to fork and use fo
 
 ## 🙋‍♂️ Author
 
-Made by [Aditya Singh] — feel free to connect!
+Made by [Manohar Kumar Jha] — feel free to connect!
 
-- GitHub: [@aditya-8787](https://github.com/aditya-8787)
-- LinkedIn: [Aditya Singh](https://www.linkedin.com/in/aditya8787/)
+- GitHub: [@manohar-jha](https://github.com/manohar-jha)
+- LinkedIn: [Manohar Kumar Jha](www.linkedin.com/in/manohar-kumar-jha-174129261)
 
 
