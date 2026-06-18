@@ -62,7 +62,7 @@ A full-stack web application to collect, manage, and monitor user feedback with 
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/aditya-8787/FeedbackCollectionSystem.git
+git clone https://github.com/manohar-jha/FeedbackCollectionSystem.git
 cd FeedbackCollectionSystem
 ```
 
